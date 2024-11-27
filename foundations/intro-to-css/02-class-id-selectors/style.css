@@ -1,6 +1,6 @@
 .rozowo{
-    background-color: rgb(205, 83, 168);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 148, 148);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .grubo{
@@ -8,12 +8,12 @@
 }
 
 #niebiesko{
-    color: rgb(170, 214, 229);
+    color: #2d6dc7;
     font-size: 36px;
 }
 
 #zielone-tuo{
-    background-color: rgb(144, 238, 144);
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: 700;
 }
