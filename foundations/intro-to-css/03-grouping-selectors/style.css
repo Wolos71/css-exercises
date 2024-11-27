@@ -1,0 +1,13 @@
+.bw{
+    color: white;
+    background-color: black;
+}
+
+.rz{
+    background-color: rgb(212, 217, 69);
+}
+
+.bw, .rz{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
